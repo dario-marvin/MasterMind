@@ -1,2 +1,2 @@
 # MasterMind
-Command line MasterMind game implemented in Smalltalk
+MasterMind game implemented in Smalltalk for Pharo 6.1

@@ -1,2 +1,2 @@
 # MasterMind
-MasterMind guessing colors game implemented in Smalltalk for Pharo 6.1 game implemented in Smalltalk for Pharo 6.1
+MasterMind guessing colors game implemented in Smalltalk for Pharo 6.1

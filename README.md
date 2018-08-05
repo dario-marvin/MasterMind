@@ -1,2 +1,2 @@
 # MasterMind
-Command line MasterMind game implemented in C++ 
+Command line MasterMind game implemented in Smalltalk

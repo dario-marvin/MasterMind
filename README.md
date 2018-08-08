@@ -1,5 +1,5 @@
 # MasterMind
-MasterMind guessing colors game implemented in Smalltalk for Pharo 6.1 and in C++ for the Ubuntu terminal. Not tested for other distributions.
+MasterMind colors guessing game implemented in Smalltalk for Pharo 6.1 and in C++ for the Ubuntu terminal. Not tested for other distributions.
 
 Rules of the game are as follows:
 

@@ -16,3 +16,7 @@ Rules of the game are as follows:
 </p>
 
 3. You have 12 attempts. If you've not guessed the right combination by then, you will lose.
+
+<p align="center">
+  <img width="732" height="410" src="https://github.com/dario-marvin/MasterMind/blob/master/MM5.png">
+</p>

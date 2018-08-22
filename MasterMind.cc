@@ -21,14 +21,14 @@ void printHeader() {
 
 void printColors(Colors c) {
 	for (unsigned int i = 0; i < c.size(); i++) {
-		if 				(c[i] == "red" || c[i] == "r") cout << "\033[1;31m\u25CF \033[0m";
-		else if 	(c[i] == "green" || c[i] == "g") cout << "\033[1;32m\u25CF \033[0m";
-		else if 	(c[i] == "black" || c[i] == "bla") cout << "\033[1;30m\u25CF \033[0m";
-		else if 	(c[i] == "white" || c[i] == "w") cout << "\033[1;37m\u25CF \033[0m";
-		else if 	(c[i] == "blue" || c[i] == "blu") cout << "\033[1;34m\u25CF \033[0m";
-		else if 	(c[i] == "yellow" || c[i] == "y") cout << "\033[1;33m\u25CF \033[0m";
-		else if 	(c[i] == "brown" || c[i] == "br") cout << "\033[22;33m\u25CF \033[0m";
-		else if 	(c[i] == "magenta" || c[i] == "m") cout << "\033[1;35m\u25CF \033[0m";
+		if (c[i] == "red" || c[i] == "r") cout << "\033[1;31m\u25CF \033[0m";
+		else if (c[i] == "green" || c[i] == "g") cout << "\033[1;32m\u25CF \033[0m";
+		else if (c[i] == "black" || c[i] == "bla") cout << "\033[1;30m\u25CF \033[0m";
+		else if (c[i] == "white" || c[i] == "w") cout << "\033[1;37m\u25CF \033[0m";
+		else if (c[i] == "blue" || c[i] == "blu") cout << "\033[1;34m\u25CF \033[0m";
+		else if (c[i] == "yellow" || c[i] == "y") cout << "\033[1;33m\u25CF \033[0m";
+		else if (c[i] == "brown" || c[i] == "br") cout << "\033[22;33m\u25CF \033[0m";
+		else if (c[i] == "magenta" || c[i] == "m") cout << "\033[1;35m\u25CF \033[0m";
 	}
 }
 

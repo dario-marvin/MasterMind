@@ -1,5 +1,7 @@
 # MasterMind
-MasterMind colors guessing game implemented in Smalltalk for Pharo 6.1 and in C++ for the Ubuntu terminal. Not tested for other distributions.
+MasterMind is a simple color guessing game, here implemented in Smalltalk for Pharo 6.1 and in C++ for the Ubuntu terminal. Not tested on other distributions.
+
+### Instructions
 
 Rules of the game are as follows:
 
@@ -24,3 +26,11 @@ Rules of the game are as follows:
 <p align="center">
   <img src="https://github.com/dario-marvin/MasterMind/blob/master/MM5.png">
 </p>
+
+
+### How to compile and execute the game
+Save the source code file [`MasterMind.cc`](https://github.com/dario-marvin/MasterMind/blob/master/MasterMind.cc) in a folder on your computer. Open a terminal and navigate to you folder with the command `cd`, then run the commands
+```
+g++ MasterMind.cc -std=c++0x -o MasterMind
+./MasterMind
+```

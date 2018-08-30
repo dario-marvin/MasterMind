@@ -3,7 +3,7 @@ MasterMind is a simple color guessing game, here implemented in Smalltalk for Ph
 
 ### Instructions
 
-Rules of the game are as follows:
+The rules of the game are as follows:
 
 1. You have to guess the combination of five non repeating colors between red, green, blue, yellow, white, black, magenta and brown.
 

@@ -32,5 +32,8 @@ The rules of the game are as follows:
 Save the source code file [`MasterMind.cc`](https://github.com/dario-marvin/MasterMind/blob/master/MasterMind.cc) in a folder on your computer. Open a terminal and navigate to you folder with the command `cd`, then run the commands
 ```
 g++ MasterMind.cc -std=c++0x -o MasterMind
+```
+and
+```
 ./MasterMind
 ```

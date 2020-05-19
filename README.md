@@ -15,7 +15,7 @@ The rules of the game are as follows:
   <img src="https://github.com/dario-marvin/MasterMind/blob/master/MM2.png">
 </p>
 
-2. The symbol ⬡  means one color is in the combination at the right place, while ⬢  means a color is in the combination, but at the wrong place.
+2. The response symbol ⬢ means one color is in the combination at the right place, while ⬡ means a color is in the combination, but at the wrong place.
 
 <p align="center">
   <img src="https://github.com/dario-marvin/MasterMind/blob/master/MM4.png">
